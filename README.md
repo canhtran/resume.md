@@ -1,6 +1,6 @@
 # resume.md
 
-![Resume](resume.png)
+<img src="https://cdn-icons-png.flaticon.com/512/6614/6614677.png"  width="20%" height="20%">
 
 Write your resume in
 [Markdown](https://raw.githubusercontent.com/mikepqr/resume.md/main/resume.md),
