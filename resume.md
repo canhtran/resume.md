@@ -53,7 +53,7 @@ hand -->
 - I developed a Credit Decision System that integrated with Experian, a leading credit reporting agency. The system provided automation for users to seamlessly modify and update credit strategies, reducing the turnaround time from 7 days to less than one hour. Utilizing a user-friendly interface and a clear data pipeline, it allowed for efficient and effective credit decision-making. The system also facilitated a smooth transition from User Acceptance Testing to Production, resulting in improved operational efficiency and cost savings for the company.
 - Technologies: Spark, Airflow, Django
 
-### <span>Data Science Platform, Grab Singapore</span>
+### <span>Data Platform for Grab Finance Group</span>
 -  I played a crucial role in creating a comprehensive Data Science Platform that streamlined the entire model development process from data exploration to production deployment. The platform provided a user-friendly interface for data scientists to write, execute code, train models, and deploy them to production with ease. Additionally, I implemented robust security and access control features to ensure data security and protect sensitive information by controlling who can access what data. As a result, the platform enabled the organization to efficiently and effectively develop and deploy models while maintaining the integrity of the data.
 - Technologies: Spark, Kubernetes, Jupyterhub
 
